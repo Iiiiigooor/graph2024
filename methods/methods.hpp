@@ -1,4 +1,4 @@
-/**
+/*
  * @file methods/methods.hpp
  * @author Mikhail Lozhnikov
  *

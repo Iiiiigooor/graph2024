@@ -1,4 +1,4 @@
-/**
+/*
  * @file tests/main.cpp
  * @author Mikhail Lozhnikov
  *

@@ -1,4 +1,4 @@
-/**
+/*
  * @file graph_test.cpp
  * @author Mikhail Lozhnikov
  *

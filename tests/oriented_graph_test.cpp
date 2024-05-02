@@ -1,9 +1,9 @@
-/**
+/*
  * @file oriented_graph_test.cpp
  * @author Mikhail Lozhnikov
  *
  * Тесты для класса graph::OrientedGraph.
- */
+*/
 
 #include "test_core.hpp"
 #include <oriented_graph.hpp>
