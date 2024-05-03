@@ -1,4 +1,4 @@
-/*
+/**
  * @file methods/main.cpp
  * @author Mikhail Lozhnikov
  *
