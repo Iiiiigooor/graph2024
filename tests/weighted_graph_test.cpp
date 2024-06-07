@@ -1,4 +1,4 @@
-/**
+/*
  * @file weighted_graph_test.cpp
  * @author Mikhail Lozhnikov
  *

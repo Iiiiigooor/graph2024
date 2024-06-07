@@ -1,4 +1,4 @@
-/**
+/*
  * @file tests/test_core.hpp
  * @author Mikhail Lozhnikov
  *
